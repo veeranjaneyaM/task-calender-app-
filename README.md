@@ -1,3 +1,5 @@
+you can view/visit the deployed web application in the url :-   "https://studio-6240130329-f7220.web.app"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
